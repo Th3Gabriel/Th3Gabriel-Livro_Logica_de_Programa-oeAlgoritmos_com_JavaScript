@@ -1,5 +1,24 @@
-Exercícios do Livro: Lógica de Programação e Algoritmos com JavaScript
-Este repositório contém as soluções para os exercícios do livro "Lógica de Programação e Algoritmos com JavaScript: uma Introdução à Programação de Computadores com Exemplos e Exercícios Para Iniciantes". O objetivo deste repositório é praticar e aprimorar habilidades de programação, seguindo os conceitos e exemplos apresentados no livro.
+# Questões - Lógica de Programação e Algoritmos com JavaScript (Novatec)
+---
+Este repositório contém as resoluções das questões e exemplos do livro Lógica de Programação e Algoritmos com JavaScript, publicado pela Editora NOVATEC e escrito por Edécio Fernando Iepsen.
 
-Estrutura do Repositório
-Cada capítulo do livro possui uma pasta correspondente neste repositório. Dentro de cada pasta, você encontrará os arquivos JavaScript contendo as soluções para os exercícios propostos. A estrutura é a seguinte:
+As resoluções oficiais feitas pelo autor do livro podem ser baixadas clicando em EXEMPLOS DO LIVRO na aba SUPORTE no site oficial da NOVATEC.
+
+# Questões por Capítulo
+---
+Capítulo 1: Introdução à lógica de programação e algoritmos, conceitos básicos de JavaScript, variáveis e instalação de um editor de código, com foco no Visual Studio Code.
+
+Capítulo 2: Integração com HTML - (Descrição das questões e exemplos, se desejar adicionar.)
+
+[Locadora]();
+<!--
+[Revenda de Veículos](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/RevendaDeVeiculos);
+
+[Restaurante](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Restaurante);
+
+[Farmácia](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Farmacia);
+
+[Lan House](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/LanHouse);
+
+[Supermercado](https://github.com/gabrielmxavier/questoes-Logica-de-programacao-e-algoritmos-com-javascript-novatec/tree/master/Supermercado);
+-->
